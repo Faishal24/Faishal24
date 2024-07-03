@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about learning frontend and backend in mobile & web development.<br>🔭 I'm currently working on small school projects.<br>🌱 I’m currently learning React.js, Express.js, Node.js
+I am passionate about learning frontend and backend in mobile & web development.<br>🔭 I'm currently working on small school projects.<br>🌱 I’m currently learning React, Express.js, Node.js
 
 
 ## 🌐 Socials:
