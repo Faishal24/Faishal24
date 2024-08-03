@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am passionate about learning frontend and backend in mobile & web development.<br>
-🔭 I'm currently working on small school projects.<br>
-🌱 I’m currently learning React, Express.js, Node.js<br>
+🌱 I’m currently learning React, Express.js, NextJS<br>
 📃 Here is my [Portofolio](https://24-remake.vercel.app/)
 
 ## 🌐 Socials:
