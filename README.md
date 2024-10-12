@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am passionate about learning frontend and backend in mobile & web development.<br>
-🌱 I’m currently learning React, Vue, Express.JS, NextJS<br>
+🌱 I’m currently learning NextJS & Flutter<br>
 📃 Here is my [Portofolio](https://24-remake.vercel.app/)
 
 ## 🌐 Socials:
