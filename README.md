@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am passionate about learning frontend and backend in mobile & web development.<br>
-🌱 I’m currently learning NextJS & Flutter<br>
+🌱 I’m currently learning NextJS, Flutter, Laravel<br>
 📃 Here is my [Portofolio](https://www.faishal24.my.id/)
 
 ## 🌐 Socials:
