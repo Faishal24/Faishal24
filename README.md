@@ -1,5 +1,5 @@
 # 💫 About Me:
-| Data Diri | Statistik Bahasa |
+| About Me | Language Stats |
 |-----------|------------------|
 | I am passionate about learning frontend and backend in mobile & web development.<br>🌱 I’m currently learning NextJS, Flutter, Laravel<br>📃 Here is my [Portofolio](https://www.faishal24.my.id/)<br> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faishal24&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 
