@@ -1,6 +1,6 @@
 | About Me | Language Stats |
 |-----------|------------------|
-| 🔭 I am passionate about learning frontend and backend in mobile & web development.<br>🌱 I’m currently learning NextJS, Flutter, Laravel<br>📃 Here is my [Portofolio](https://www.faishal24.my.id/)<br> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faishal24&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+| 🔭 I am currently learning frontend and backend development for both mobile & web.<br>🌱 I’m currently learning NextJS, Vue, Laravel<br>📃 Here is my [Portofolio](https://www.faishal24.my.id/)<br> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faishal24&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milanta169) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faishal-hakim-62b849257) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@faishal24) 
